@@ -1,2 +1,3 @@
-# Detecter
-Look at the .pdf file
+# Detector
+
+Look at the .pdf file for more instructions.
